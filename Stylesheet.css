@@ -1,0 +1,47 @@
+
+                            /* #body { 
+           
+                            
+                            } */
+                           
+                           
+          h1   {color:rgb(177, 113, 207);}
+          p    {color: rgb(255, 136, 0);}
+          h2   {color: rgb(132, 0, 255);}
+          li    {color: rgb(255, 136, 0);}
+
+          h1{
+            text-align: center;
+                            }
+                            
+         p{
+            text-align: center;
+                            }
+                           
+        li{
+            font-weight: bold;
+                            }
+                            
+        p{
+            font-weight: bold;
+                            }
+                
+                            
+        h1 {
+            font-size: 2.5em; /* 40px/16=2.5em */
+                            }
+                            
+        #opacity{
+                background-color: white;  opacity: 0.7;
+                /* filter: alpha(opacity=50);  */
+                border:solid;
+                             
+                                
+                            }
+                            
+        #transparent{
+                    background-color: white; opacity: 0.7; 
+                    /*filter: alpha(opacity=50); */
+                    border:solid;
+
+     
